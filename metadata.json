@@ -1,0 +1,8 @@
+{
+  "name": "Cognifyz Internship Hub",
+  "description": "A comprehensive portal showcasing the Cognifyz Web Development Internship levels, tasks, and a professional landing page with AI-powered assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
